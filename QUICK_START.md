@@ -5,10 +5,10 @@
 ```bash
 # 如果你有git
 git clone <repository-url>
-cd uapi-pro-mcp-server
+cd uapi-pro-mcp-vercel
 
 # 或者直接使用已下载的文件
-cd uapi-pro-mcp-server
+cd uapi-pro-mcp-vercel
 ```
 
 ## 2. 安装依赖

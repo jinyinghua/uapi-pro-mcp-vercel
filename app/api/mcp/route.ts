@@ -8,7 +8,7 @@ const MAX_IMAGE_BYTES = 8 * 1024 * 1024;
 async function fetchImageAsBase64(imageUrl: string) {
   const response = await fetch(imageUrl, {
     headers: {
-      'User-Agent': 'uapi-pro-mcp-server/1.0'
+      'User-Agent': 'uapi-pro-mcp-vercel/1.0'
     }
   });
 

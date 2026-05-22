@@ -1,9 +1,9 @@
-# UAPI Pro MCP 服务器项目总结
+# uapi-pro-mcp-vercel 项目总结
 
 ## 📁 项目结构
 
 ```
-uapi-pro-mcp-server/
+uapi-pro-mcp-vercel/
 ├── app/
 │   ├── api/
 │   │   └── mcp/
